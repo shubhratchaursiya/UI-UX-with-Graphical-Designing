@@ -48,7 +48,7 @@ UI-UX-with-Graphical-Designing/
 
 I'm passionate about creating intuitive and aesthetically pleasing digital experiences. This repository reflects my learning journey and design approach to crafting user-centric interfaces.
 
----
+````
 
 ## 📬 Contact
 
